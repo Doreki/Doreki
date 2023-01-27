@@ -1,4 +1,7 @@
-### Welcome to my git 👋
+### 도전을 두려워 하지 않는 야생형 개발자 👋
+## Technical stack
+
+Nest.js,mongo DB
 
 <!--
 **Doreki/Doreki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
