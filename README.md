@@ -1,5 +1,5 @@
 ### 도전을 두려워 하지 않는 야생형 개발자 👋
-## Technical stack
+## Tech stack
 
 Nest.js,mongo DB
 
